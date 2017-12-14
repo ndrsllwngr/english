@@ -1,8 +1,15 @@
 # English
-- 
--
-- 
-- 
+- [Introdcue](https://github.com/andreasellw/english#introduce)
+- [Add background ideas](https://github.com/andreasellw/english#add-background-ideas)
+- [Add ideas](https://github.com/andreasellw/english#add-ideas)
+- [Add rare ideas](https://github.com/andreasellw/english#add-rare-ideas)
+- [Add common ideas](https://github.com/andreasellw/english#add-common-ideas)
+- [Add inconclusive ideas](https://github.com/andreasellw/english#add-inconclusive-ideas)
+- [Add others' ideas](https://github.com/andreasellw/english#add-others-ideas)
+- [Add examples](https://github.com/andreasellw/english#add-examples)
+- [Compare and contrast](https://github.com/andreasellw/english#compare-and-contrast)
+- [Show relationships or outcome](https://github.com/andreasellw/english#show-relationships-or-outcome)
+- [Conclude](https://github.com/andreasellw/english#conclude)
 
 ## Introduce
 - In this essay
