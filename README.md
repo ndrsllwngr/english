@@ -1,5 +1,5 @@
 # English
-- [Introdcue](https://github.com/andreasellw/english#introduce)
+- [Introduce](https://github.com/andreasellw/english#introduce)
 - [Add background ideas](https://github.com/andreasellw/english#add-background-ideas)
 - [Add ideas](https://github.com/andreasellw/english#add-ideas)
 - [Add rare ideas](https://github.com/andreasellw/english#add-rare-ideas)
