@@ -1,4 +1,4 @@
-# English
+# English phrases
 
 Sentence starters, transitional and other useful words.
 
