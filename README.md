@@ -6,7 +6,7 @@ Sentence starters, transitional and other useful words.
 relationship between ideas. Below is a list of possible sentence starters, transitional and other
 words that may be useful.
 
-Furthermore [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) is interesting.
+Furthermore, [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) by Dr John Morley is worth taking a closer look.
 
 ##### Table of Contents
 - [Introduce](#introduce)
