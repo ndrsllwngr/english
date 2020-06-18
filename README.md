@@ -1,15 +1,25 @@
 # English
-- [Introduce](https://github.com/andreasellw/english#introduce)
-- [Add background ideas](https://github.com/andreasellw/english#add-background-ideas)
-- [Add ideas](https://github.com/andreasellw/english#add-ideas)
-- [Add rare ideas](https://github.com/andreasellw/english#add-rare-ideas)
-- [Add common ideas](https://github.com/andreasellw/english#add-common-ideas)
-- [Add inconclusive ideas](https://github.com/andreasellw/english#add-inconclusive-ideas)
-- [Add others' ideas](https://github.com/andreasellw/english#add-others-ideas)
-- [Add examples](https://github.com/andreasellw/english#add-examples)
-- [Compare and contrast](https://github.com/andreasellw/english#compare-and-contrast)
-- [Show relationships or outcome](https://github.com/andreasellw/english#show-relationships-or-outcome)
-- [Conclude](https://github.com/andreasellw/english#conclude)
+
+Sentence starters, transitional and other useful words.
+
+> It can sometimes be difficult to start a sentence to express ideas, or find words to show the
+relationship between ideas. Below is a list of possible sentence starters, transitional and other
+words that may be useful.
+
+Furthermore [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) is interesting.
+
+##### Table of Contents
+- [Introduce](#introduce)
+- [Add background ideas](#add-background-ideas)
+- [Add ideas](#add-ideas)
+- [Add rare ideas](#add-rare-ideas)
+- [Add common ideas](#add-common-ideas)
+- [Add inconclusive ideas](#add-inconclusive-ideas)
+- [Add others' ideas](#add-others-ideas)
+- [Add examples](#add-examples)
+- [Compare and contrast](#compare-and-contrast)
+- [Show relationships or outcome](#show-relationships-or-outcome)
+- [Conclude](#conclude)
 
 ## Introduce
 - In this essay
